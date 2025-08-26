@@ -142,6 +142,5 @@ The **Power BI dashboard** includes:
 
 ✨ This project demonstrates **end-to-end analytics in Power BI**, from **data cleaning with Power Query** to **insightful dashboards**, providing businesses with actionable intelligence.
 
----
 
 👉 Do you want me to also design a **dashboard preview image** (like a clean PNG thumbnail) so it looks professional at the top of your GitHub README?
